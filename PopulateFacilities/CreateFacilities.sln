@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1831
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "CreateFacilities", "CreateFacilities\CreateFacilities.dtproj", "{5A397D0A-0662-45BD-8F85-38A1F7FB0AB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A397D0A-0662-45BD-8F85-38A1F7FB0AB8}.Development|Default.ActiveCfg = Development
+		{5A397D0A-0662-45BD-8F85-38A1F7FB0AB8}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F82BBBA-B7A5-4222-AB88-767E39788693}
+	EndGlobalSection
+EndGlobal

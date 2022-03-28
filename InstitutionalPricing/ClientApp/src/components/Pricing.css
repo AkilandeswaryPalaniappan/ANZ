@@ -1,0 +1,27 @@
+﻿#pricing td, #pricing th {
+    padding: 8px;
+}
+
+#pricing tr {
+    background-color: #FFFFFF;
+}
+
+#pricing tr:hover {
+    background-color: #ddd;
+}
+
+#pricing td {
+    max-width: 800px;
+}
+
+#pricing th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #808080;
+    color: white;
+}
+
+#viewSummary {
+    color: blue;
+}
